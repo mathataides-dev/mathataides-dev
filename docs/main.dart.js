@@ -59006,7 +59006,7 @@ U.A4.prototype={
 L:function(a,b){var s=null
 return T.bc(H.b([T.lR(M.aR(s,new A.fH(new U.OO(b),s),new P.f(4281151026),s,s,s,s,s,s,b.N(t.w).f.a.a),1)],t.t),C.k,this.c,C.b5,C.o)}}
 U.OO.prototype={
-$2:function(a,b){var s,r,q,p,o,n,m,l,k,j,i,h=null,g=4278190145,f=4294769919,e=$.a0,d=$.ad,c=e.a
+$2:function(a,b){var s,r,q,p,o,n,m,l,k,j,i,h=null,g=4280827641,f=4294769919,e=$.a0,d=$.ad,c=e.a
 d/=c.b
 s=T.a4(h,50*d,h)
 c=$.aW/c.a
@@ -59066,7 +59066,7 @@ s=T.bc(H.b([new S.ix(q,p,o,n,m),T.a4(m,m,40*($.aW/s.a.a)),new S.ix(l,k,j,i,m)],g
 r=$.a0
 return new M.mD(h,s,T.bc(H.b([new S.ix(q,p,o,n,m),T.a4(m,m,40*($.aW/r.a.a)),new S.ix(l,k,j,i,m)],g),C.k,m,C.u,C.o),m)}}
 S.ix.prototype={
-L:function(a,b){var s,r,q,p,o,n,m,l,k=this,j=null,i=4278190145,h=$.a0,g=$.aW
+L:function(a,b){var s,r,q,p,o,n,m,l,k=this,j=null,i=4280827641,h=$.a0,g=$.aW
 h=h.a
 h=Math.min(g/h.a,$.ad/h.b)
 g=550*h
@@ -59089,7 +59089,7 @@ return T.wz(C.hJ,H.b([r,M.aR(j,M.aR(j,T.c3(H.b([m,p,M.aR(j,j,j,j,j,5*($.ad/n.a.b
 cM:function(a){return this.e.$0()},
 ga8:function(a){return this.c}}
 X.GS.prototype={
-L:function(a,a0){var s,r,q,p,o,n,m,l,k=null,j=4278190145,i="github.com/mathsilva-dev",h=4294769919,g="linkedin.com/in/matheus-da-silva-ataides",f="mathsilvaof",e="matheus.is17.silva@gmail.com",d=$.a0,c=$.aW,b=d.a
+L:function(a,a0){var s,r,q,p,o,n,m,l,k=null,j=4280827641,i="github.com/mathsilva-dev",h=4294769919,g="linkedin.com/in/matheus-da-silva-ataides",f="mathsilvaof",e="matheus.is17.silva@gmail.com",d=$.a0,c=$.aW,b=d.a
 c/=b.a
 s=t.t
 d=T.bc(H.b([L.dp(C.mw,new P.f(j),70*Math.min(c,$.ad/b.b)),T.a4(k,k,25*c),R.bZ(!1,!0,L.aJ(i,B.aM(new P.f(h),d.ap(45),k),k),k,!0,k,k,k,k,k,k,k,k,k,new X.a0u(),k)],s),C.k,k,C.u,C.o)
@@ -59268,7 +59268,7 @@ V.BD.prototype={
 L:function(a,b){var s=null
 return T.bc(H.b([T.lR(M.aR(s,new A.fH(new V.QJ(b),s),new P.f(4280624682),s,s,s,s,s,s,b.N(t.w).f.a.a),1)],t.t),C.k,this.c,C.b5,C.o)}}
 V.QJ.prototype={
-$2:function(a,b){var s,r,q,p,o=null,n=4278190145,m=4294769919,l=$.a0,k=$.ad,j=l.a
+$2:function(a,b){var s,r,q,p,o=null,n=4280827641,m=4294769919,l=$.a0,k=$.ad,j=l.a
 k/=j.b
 s=T.a4(o,50*k,o)
 j=$.aW/j.a
@@ -59301,7 +59301,7 @@ $2:function(a,b){var s,r=null,q=b.b,p=$.a0,o=T.a4(r,15*($.ad/p.a.b),r)
 p=L.aJ("\xa9 2021 Matheus da Silva Ataides",B.aM(new P.f(4294769919),p.ap(30),r),C.aI)
 s=$.a0
 s=$.ad/s.a.b
-return M.aR(r,T.c3(H.b([o,p,T.a4(r,15*s,r),M.aR(r,r,new P.f(4278190145),r,r,5*s,r,r,r,q)],t.t),C.k,C.L),new P.f(4281151026),r,r,r,r,r,r,q)},
+return M.aR(r,T.c3(H.b([o,p,T.a4(r,15*s,r),M.aR(r,r,new P.f(4280827641),r,r,5*s,r,r,r,q)],t.t),C.k,C.L),new P.f(4281151026),r,r,r,r,r,r,q)},
 $S:373}
 X.u8.prototype={
 aB:function(){var s=null,r=t.Xk
@@ -59411,7 +59411,7 @@ return P.U(null,r)}})
 return P.V($async$$0,r)},
 $S:6}
 X.a4D.prototype={
-$3:function(a,b,c){return T.c3(H.b([L.aJ(C.c.R("</ ",0,c),B.ab6(new P.f(4278190145),$.a0.ap(40),C.b_),null)],t.t),C.k,C.u)},
+$3:function(a,b,c){return T.c3(H.b([L.aJ(C.c.R("</ ",0,c),B.ab6(new P.f(4280827641),$.a0.ap(40),C.b_),null)],t.t),C.k,C.u)},
 $S:28}
 X.a4E.prototype={
 $3:function(a,b,c){return T.c3(H.b([L.aJ(C.c.R("Matheus Silva",0,c),B.ab6(new P.f(4294769919),$.a0.ap(40),null),null)],t.t),C.k,C.u)},
@@ -59420,7 +59420,7 @@ X.a4F.prototype={
 $0:function(){return this.a.tz()},
 $S:0}
 X.a4G.prototype={
-$3:function(a,b,c){return T.c3(H.b([L.aJ(C.c.R(" >",0,c),B.ab6(new P.f(4278190145),$.a0.ap(40),C.b_),null)],t.t),C.k,C.u)},
+$3:function(a,b,c){return T.c3(H.b([L.aJ(C.c.R(" >",0,c),B.ab6(new P.f(4280827641),$.a0.ap(40),C.b_),null)],t.t),C.k,C.u)},
 $S:28}
 X.a4H.prototype={
 $0:function(){return this.a.tz()},
@@ -59473,7 +59473,7 @@ s=P.b0(0,1500,0)
 o=Z.vo(new O.a1E(),P.b0(0,1400,0),s,new R.f9(0,42),o)
 s=$.a0
 r=T.a4(p,25*($.ad/s.a.b),p)
-s=R.bZ(!1,!0,new U.CB(T.abG(p,p,C.fc,!0,p,new Q.h0(p,H.b([new Q.h0("Que tal conhecer um pouco do meu ",p,B.aM(new P.f(4285493110),s.ap(40),p)),new Q.h0("trabalho?",p,B.aM(new P.f(4278190145),$.a0.ap(40),p))],t.hv),p),C.aW,p,p,1,C.bw),new U.SC(new B.lq(C.yu),!1,!0,0),p),p,!0,p,p,p,p,p,p,p,p,p,new O.a1F(this.a),p)
+s=R.bZ(!1,!0,new U.CB(T.abG(p,p,C.fc,!0,p,new Q.h0(p,H.b([new Q.h0("Que tal conhecer um pouco do meu ",p,B.aM(new P.f(4285493110),s.ap(40),p)),new Q.h0("trabalho?",p,B.aM(new P.f(4280827641),$.a0.ap(40),p))],t.hv),p),C.aW,p,p,1,C.bw),new U.SC(new B.lq(C.yu),!1,!0,0),p),p,!0,p,p,p,p,p,p,p,p,p,new O.a1F(this.a),p)
 if(this.b.N(t.w).f.a.a<730){q=$.a0
 q=T.a4(p,100*($.ad/q.a.b),p)}else q=T.a4(p,p,p)
 return T.c3(H.b([n,m,o,r,s,q],t.t),C.k,C.u)},
@@ -59482,7 +59482,7 @@ O.a1C.prototype={
 $3:function(a,b,c){return T.c3(H.b([L.aJ(C.c.R("Ol\xe1, eu sou ",0,c),B.aM(new P.f(4294769919),$.a0.ap(120),null),null)],t.t),C.k,C.u)},
 $S:28}
 O.a1D.prototype={
-$3:function(a,b,c){return T.c3(H.b([L.aJ(C.c.R("Matheus",0,c),B.aM(new P.f(4278190145),$.a0.ap(120),null),null)],t.t),C.k,C.u)},
+$3:function(a,b,c){return T.c3(H.b([L.aJ(C.c.R("Matheus",0,c),B.aM(new P.f(4280827641),$.a0.ap(120),null),null)],t.t),C.k,C.u)},
 $S:28}
 O.a1E.prototype={
 $3:function(a,b,c){return T.c3(H.b([L.aJ(C.c.R("Flutter Developer\ne Analista de Requisitos",0,c),B.aM(new P.f(4294769919),$.a0.ap(120),null),C.X)],t.t),C.k,C.u)},
@@ -59510,7 +59510,7 @@ r=o}return r}}
 S.vs.prototype={
 aB:function(){return new S.Le(C.m)}}
 S.Le.prototype={
-L:function(a5,a6){var s,r,q,p,o,n,m,l,k,j,i,h,g=this,f=null,e=4278190145,d="Projetos",c=4294769919,b="Veja alguns dos projetos desenvolvidos por mim\n ou que desenvolvi junto de minha equipe.",a="number",a0=t.w,a1=a6.N(a0).f,a2=$.a0,a3=$.aW,a4=a2.a
+L:function(a5,a6){var s,r,q,p,o,n,m,l,k,j,i,h,g=this,f=null,e=4280827641,d="Projetos",c=4294769919,b="Veja alguns dos projetos desenvolvidos por mim\n ou que desenvolvi junto de minha equipe.",a="number",a0=t.w,a1=a6.N(a0).f,a2=$.a0,a3=$.aW,a4=a2.a
 a4=Math.min(a3/a4.a,$.ad/a4.b)
 a3=100*a4
 s=T.a4(f,a3,f)
@@ -59682,7 +59682,7 @@ if(r<3)s.c=r+1
 else if(r===3)s.c=0},
 $S:1}
 O.qo.prototype={
-L:function(a,b){var s,r,q,p,o,n,m,l,k,j,i=null,h=4294769919,g=4278190145,f=4285493110,e=this.c
+L:function(a,b){var s,r,q,p,o,n,m,l,k,j,i=null,h=4294769919,g=4280827641,f=4285493110,e=this.c
 if(e===0||e===2){s=M.j3(b)||b.N(t.w).f.a.a<730?C.k:C.jC
 r=$.jK[e].h(0,"title")
 q=B.aM(new P.f(h),$.a0.ap(60),i)
