@@ -58543,7 +58543,7 @@ V.Qj.prototype={
 $0:function(){var s=0,r=P.a1(t.P)
 var $async$$0=P.X(function(a,b){if(a===1)return P.Z(b,r)
 while(true)switch(s){case 0:s=2
-return P.Y(T.rc("https:www.github.com/mathsilva-dev"),$async$$0)
+return P.Y(T.rc("https://github.com/mathsilva-dev"),$async$$0)
 case 2:return P.a_(null,r)}})
 return P.a0($async$$0,r)},
 $S:54}
@@ -58551,7 +58551,7 @@ V.Qk.prototype={
 $0:function(){var s=0,r=P.a1(t.P)
 var $async$$0=P.X(function(a,b){if(a===1)return P.Z(b,r)
 while(true)switch(s){case 0:s=2
-return P.Y(T.rc("https:linkedin.com/in/matheus-da-silva-ataides"),$async$$0)
+return P.Y(T.rc("https://linkedin.com/in/matheus-da-silva-ataides"),$async$$0)
 case 2:return P.a_(null,r)}})
 return P.a0($async$$0,r)},
 $S:54}
@@ -58559,7 +58559,7 @@ V.Ql.prototype={
 $0:function(){var s=0,r=P.a1(t.P)
 var $async$$0=P.X(function(a,b){if(a===1)return P.Z(b,r)
 while(true)switch(s){case 0:s=2
-return P.Y(T.rc("https:www.instagram.com/mathsilvaof"),$async$$0)
+return P.Y(T.rc("https://instagram.com/mathsilvaof"),$async$$0)
 case 2:return P.a_(null,r)}})
 return P.a0($async$$0,r)},
 $S:54}
