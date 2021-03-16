@@ -14,3 +14,7 @@ O desenvolvimento foi realizado utilizando Flutter 2.0.1 e com a publicação no
 Espero que goste!
 
 Um abraço! :computer: :metal:
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathsilva-dev&count_private=true&show_icons=true&theme=tokyonight )](https://github.com/anuraghazra/github-readme-stats)
