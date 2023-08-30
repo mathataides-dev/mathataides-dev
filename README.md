@@ -6,6 +6,14 @@ Gosto de resolver problemas, aprender cada vez mais e sou movido por desafios, m
 
 >Todo bom sistema começa com uma boa história.
 
+
+### Entre em contato comigo!
+<div>
+<a href="https://instagram.com/mathsilvaof" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/matheus-da-silva-ataides" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+   
+
 ## Este repositório
 
 Este repositório é destinado a publicação da landing page do meu portfólio.
